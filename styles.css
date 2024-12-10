@@ -1,2 +1,5 @@
+header, nav{background-color: greenyellow;
+    color: red;
+    margin: 20%;}
 nav ul{list-style-type: none;
     display: inline;}
