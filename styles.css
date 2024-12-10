@@ -3,7 +3,7 @@ body {font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 header, nav{background-color: greenyellow;
     color: red;
-    padding: 2%;}
+    display: block;}
 
 nav ul{list-style-type: none;}
 nav ul li {display: inline;}
