@@ -26,3 +26,6 @@ main {margin: 1em;
     background-color: aliceblue;
     padding: 2%;}
 h2{text-align: center;}
+
+footer {font-size: small;
+    font-style: italic;}
