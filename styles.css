@@ -5,7 +5,7 @@ body {font-family: Verdana, Geneva, Tahoma, sans-serif;
 header, nav{background-color: greenyellow;
     color: red;
     display: block;
-    padding: 1em 0;
+    padding-block: 1em 0;
     text-align: center;}
 
 header {margin-top: 1em;
@@ -25,3 +25,4 @@ nav ul li a:visited{color: purple;}
 main {margin: 1em;
     background-color: aliceblue;
     padding: 2%;}
+h2{text-align: center;}
