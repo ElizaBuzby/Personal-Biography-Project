@@ -23,4 +23,5 @@ nav ul li a:hover{text-decoration: underline;}
 nav ul li a:visited{color: purple;}
 
 main {margin: 1em;
-    background-color: aliceblue;}
+    background-color: aliceblue;
+    padding: 2%;}
