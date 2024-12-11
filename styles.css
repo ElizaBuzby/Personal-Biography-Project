@@ -23,4 +23,6 @@ nav ul li a{color: blue;
 nav ul li a:hover{text-decoration: underline;}
 nav ul li a:visited{color: purple;}
 
-main {margin: 1em;}
+main {margin: 1em;
+    background-color: aliceblue;
+    box-shadow: 8px 8px 8px 8px #000000;}
