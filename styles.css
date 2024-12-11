@@ -21,3 +21,5 @@ nav ul li a{color: blue;
     text-decoration:none;}
 nav ul li a:hover{text-decoration: underline;}
 nav ul li a:visited{color: purple;}
+
+main {margin: 1em;}
