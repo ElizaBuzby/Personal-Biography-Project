@@ -17,3 +17,4 @@ nav {margin-left: 1em;
     margin-bottom: 1em;}
 nav ul{list-style-type: none;}
 nav ul li {display: inline;}
+nav ul li:hover{color: purple;}
