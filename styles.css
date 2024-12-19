@@ -28,7 +28,8 @@ main {margin: 1em;
 h2{text-align: center;}
 
 img {height: 100%;
-    width: 100%;}
+    width: 100%;
+    align-self: center;}
 
 footer {font-size: small;
     font-style: italic;
