@@ -1,9 +1,9 @@
 /*Reminder to me to fix colors like egh this is so ugly*/
 body {font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(210, 204, 197);}
+    background-color: f2ebc2;}
 
-header, nav{background-color: rgb(89, 192, 130);
-    color: rgb(161, 48, 25);
+header, nav{background-color: #2dcc29;
+    color: #c4170c;
     display: block;
     padding: 1em 0;
     text-align: center;}
@@ -33,7 +33,7 @@ img {height: 100%;
 
 footer {font-size: small;
     font-style: italic;
-    background-color: rgb(89, 192, 130);
-    color: rgb(161, 48, 25);
+    background-color: #2dcc29;
+    color: #c4170c;
     margin: 1em;
     text-align: center;}
