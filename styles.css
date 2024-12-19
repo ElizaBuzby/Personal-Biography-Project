@@ -2,8 +2,8 @@
 body {font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #f2ebc2;}
 
-header, nav{background-color: #2dcc29;
-    color: #c4170c;
+header, nav{background-color: #62E660;
+    color: #AE1004;
     display: block;
     padding: 1em 0;
     text-align: center;}
@@ -33,7 +33,7 @@ img {height: 100%;
 
 footer {font-size: small;
     font-style: italic;
-    background-color: #2dcc29;
-    color: #c4170c;
+    background-color: #62E660;
+    color: #AE1004;
     margin: 1em;
     text-align: center;}
